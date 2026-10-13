@@ -15,3 +15,7 @@ echo "<p>SAPI: <strong>$sapi</strong></p>\n";
 echo '<p>' . ($explicacion[$sapi] ?? 'Mecanismo no reconocido.') . "</p>\n";
 echo '<p>Servidor web: ' . ($_SERVER['SERVER_SOFTWARE'] ?? 'ninguno') . "</p>\n";
 echo '<p>Proceso (PID): ' . getmypid() . "</p>\n";
+fdsffasd
+opcache_compile_filefdfsd
+fds
+fclose
