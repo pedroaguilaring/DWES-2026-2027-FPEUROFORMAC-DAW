@@ -3,7 +3,7 @@
 $sapi = php_sapi_name();
 
 $explicacion = [
-    'cli'            => 'Línea de órdenes: lo has lanzado tú desde la terminal.',
+    'cli'            => 'aaaanea de órdenes: lo has lanzado tú desde la terminal.',
     'cli-server'     => 'Servidor de pruebas integrado en PHP (php -S).',
     'cgi-fcgi'       => 'CGI o FastCGI: PHP es un programa aparte al que el servidor web pasa la petición.',
     'fpm-fcgi'       => 'PHP-FPM: un grupo de procesos PHP siempre encendidos, comunicados por FastCGI.',
